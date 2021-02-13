@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427419912498",
+    "project_id": "kozmikpudding",
+    "storage_bucket": "kozmikpudding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427419912498:android:52851482244bc55914af2b",
+        "android_client_info": {
+          "package_name": "cm.akifay.kozmikpuding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427419912498-aho5u6teccue17v8q7hn4opumannkg8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkhOSgkzIv0ZjtuoO6E5KdyUE90qNB_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427419912498-aho5u6teccue17v8q7hn4opumannkg8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
