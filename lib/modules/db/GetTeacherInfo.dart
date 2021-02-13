@@ -1,13 +1,13 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 
-import 'TeacherBox.dart';
+import '../TeacherBox.dart';
 
-class GetUser extends StatelessWidget {
+class GetTeacherInfo extends StatelessWidget {
   final String documentId;
-
-  GetUser(this.documentId);
-
+  Map<String, dynamic> values;
+  GetTeacherInfo(this.documentId);
+  FirebaseFirestore firestore = FirebaseFirestore.instance;
   @override
   Widget build(BuildContext context) {
     CollectionReference users = FirebaseFirestore.instance.collection('teachers');
@@ -18,16 +18,17 @@ class GetUser extends StatelessWidget {
           (BuildContext context, AsyncSnapshot<DocumentSnapshot> snapshot) {
 
         if (snapshot.hasError) {
-          return Text("Something went wrong");
+
         }
 
-        if (snapshot.connectionState == ConnectionState.done) {
-          Map<String, dynamic> data = snapshot.data.data();
-          return TeacherBox("${data['name']}","Scientist",100,"assets/person.jpg");
+        if (snapshot.connectionState == ConnectionState.done)
+        {
+          values = snapshot.data.data();
         }
-
-        return Text("loading");
+        return TeacherBox(values['Name'],values['Profession'],values['Points'],"assets/person.jpg");
       },
     );
+
+
   }
 }
