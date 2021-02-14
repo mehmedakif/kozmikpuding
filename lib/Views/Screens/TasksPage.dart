@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:kozmikpuding/modules/TaskBox.dart';
+import 'file:///E:/Projeler/Kozmikpuding/kozmikpuding/lib/Views/Widgets/TaskBox.dart';
 
 class TasksPage extends StatelessWidget{
   @override

@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 
-import '../TeacherBox.dart';
+import '../../Views/Widgets/TeacherBox.dart';
 
 class GetTeacherInfo extends StatelessWidget {
   final String documentId;

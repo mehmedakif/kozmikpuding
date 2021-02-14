@@ -5,11 +5,10 @@ class SchoolPage extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return  ListView(
-        padding: const EdgeInsets.all(8),
+        padding: const EdgeInsets.all(0),
         children: <Widget>[
-
-      Container(
-        padding: EdgeInsets.all(2),
+          Container(
+        padding: EdgeInsets.all(0),
         height: 100,
 
         child: Card(
@@ -19,7 +18,7 @@ class SchoolPage extends StatelessWidget{
               new Image.asset("assets/school.png", width: 100.0, height: 100.0), Expanded(
               child:
               Container(
-                  padding: EdgeInsets.all(5), child: Column(
+                  padding: EdgeInsets.all(0), child: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: <Widget>[
                   Text("Siirt/Şirvan/Park İ.Ö.O", style: TextStyle(
@@ -38,7 +37,7 @@ class SchoolPage extends StatelessWidget{
     )
     ),
           Container(
-        padding: EdgeInsets.all(2),
+        padding: EdgeInsets.all(0),
         height: 100,
 
         child: Card(
@@ -48,7 +47,7 @@ class SchoolPage extends StatelessWidget{
               Expanded(
               child:
               Container(
-                  padding: EdgeInsets.all(5), child: Column(
+                  padding: EdgeInsets.all(0), child: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: <Widget>[
                   new Image.asset("assets/school.png", width: 50.0, height: 35.0),
@@ -63,7 +62,7 @@ class SchoolPage extends StatelessWidget{
           ), Expanded(
                 child:
                 Container(
-                    padding: EdgeInsets.all(5), child: Column(
+                    padding: EdgeInsets.all(0), child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: <Widget>[
                     new Image.asset("assets/school.png", width: 50.0, height: 35.0),
@@ -81,7 +80,8 @@ class SchoolPage extends StatelessWidget{
 
 
     )
-    ),Container(
+    ),
+          Container(
         padding: EdgeInsets.all(2),
         height: 100,
 
@@ -92,7 +92,7 @@ class SchoolPage extends StatelessWidget{
               Expanded(
               child:
               Container(
-                  padding: EdgeInsets.all(5), child: Column(
+                  padding: EdgeInsets.all(0), child: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: <Widget>[
                   new Image.asset("assets/person.jpg", width: 50.0, height: 35.0),
@@ -106,7 +106,7 @@ class SchoolPage extends StatelessWidget{
           ), Expanded(
                 child:
                 Container(
-                    padding: EdgeInsets.all(5), child: Column(
+                    padding: EdgeInsets.all(0), child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: <Widget>[
                     new Image.asset("assets/person.jpg", width: 50.0, height: 35.0),
@@ -123,8 +123,9 @@ class SchoolPage extends StatelessWidget{
 
 
     )
-    ),Container(
-        padding: EdgeInsets.all(2),
+    ),
+          Container(
+        padding: EdgeInsets.all(0),
         height: 100,
 
         child: Card(
@@ -134,7 +135,7 @@ class SchoolPage extends StatelessWidget{
               Expanded(
               child:
               Container(
-                  padding: EdgeInsets.all(5), child: Column(
+                  padding: EdgeInsets.all(0), child: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: <Widget>[
                   new Image.asset("assets/school.png", width: 50.0, height: 35.0),
@@ -148,7 +149,7 @@ class SchoolPage extends StatelessWidget{
           ), Expanded(
                 child:
                 Container(
-                    padding: EdgeInsets.all(5), child: Column(
+                    padding: EdgeInsets.all(0), child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: <Widget>[
                     new Image.asset("assets/school.png", width: 50.0, height: 35.0),

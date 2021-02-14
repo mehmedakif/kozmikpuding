@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:kozmikpuding/modules/TeacherBox.dart';
+import 'file:///E:/Projeler/Kozmikpuding/kozmikpuding/lib/Views/Widgets/TeacherBox.dart';
 
 class ConnectPage extends StatelessWidget{
   @override

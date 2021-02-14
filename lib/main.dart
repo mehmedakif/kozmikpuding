@@ -1,6 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'modules/NavigationBar.dart';
+import 'Views/Screens/NavigationBar.dart';
 
 void main() async {
 

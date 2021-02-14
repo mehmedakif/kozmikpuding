@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:kozmikpuding/modules/ConnectPage.dart';
-import 'package:kozmikpuding/modules/LoginPage.dart';
-import 'package:kozmikpuding/modules/TasksPage.dart';
-import 'HomePage.dart';
+import 'file:///E:/Projeler/Kozmikpuding/kozmikpuding/lib/Views/Screens/ConnectPage.dart';
+import 'package:kozmikpuding/Views/Screens/LoginPage.dart';
+import 'package:kozmikpuding/Views/Screens/TasksPage.dart';
+import 'package:kozmikpuding/Views/Screens/HomePage.dart';
 import 'SchoolPage.dart';
 
 class NavigationBar extends StatefulWidget {
@@ -18,8 +18,8 @@ class _NavigationBarState extends State<NavigationBar> {
   TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
   static List<Widget> _widgetOptions = <Widget>[
     HomePage(),
-    TasksPage(),
     ConnectPage(),
+    TasksPage(),
     SchoolPage(),
   ];
 
@@ -46,13 +46,14 @@ class _NavigationBarState extends State<NavigationBar> {
             label: 'Home',
           ),
           BottomNavigationBarItem(
+            icon: Icon(Icons.sync_rounded),
+            label: 'Connect',
+          ),
+          BottomNavigationBarItem(
             icon: Icon(Icons.check_box_outlined),
             label: 'Tasks',
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.sync_rounded),
-            label: 'Connect',
-          ),BottomNavigationBarItem(
             icon: Icon(Icons.school),
             label: 'My School',
           ),

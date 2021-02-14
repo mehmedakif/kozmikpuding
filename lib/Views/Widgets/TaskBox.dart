@@ -9,13 +9,14 @@ class TaskBox extends StatelessWidget {
 
   Widget build(BuildContext context) {
     return Container(
-        padding: EdgeInsets.all(2), height: 120,  child: Card(
+        padding: EdgeInsets.all(0), height: 120,  child: Card(
         child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceEvenly, children: <Widget>[
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            children: <Widget>[
           new Image.asset(image, width: 50.0, height: 50.0), Expanded(
               child:
               Container(
-                  padding: EdgeInsets.all(5), child: Column(
+                  padding: EdgeInsets.all(0), child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: <Widget>[
                     Text(this.name, style: TextStyle(
@@ -28,6 +29,7 @@ class TaskBox extends StatelessWidget {
           )
         ]
         )
+
     )
     );
   }
