@@ -1,5 +1,5 @@
 # kozmikpuding
-
+![Optional Text](../master/untitled.png)
 ## İletişim Bilgileri
 
 - mehmedakifay@gmail.com
@@ -22,6 +22,7 @@
 1997 yılı İstanbul doğumlu olan Ayşegül, MSGSÜ Matematik bölümünü okumaktadır. Matematik dersleri vermenin yanı sıra Veri Bilimi ile ilgilenmektedir. Toplumsal eşitlik ve bilimsel düşünce üzerinde çalışmayı sevdiği konulardır.
 
 ## Projenin Özeti
+
 
 ###### Problem
 
