@@ -29,15 +29,12 @@
 ###### Kullanılan Plartfomlar:
 " "
 
-###### Kullanılan Plartfomlar:
-" "
-
 ###### Kullanılan Geliştirme Araçları:
-" "
+" Android Studio "
 
 ###### Kullanılan API'ler:
 
-" "
+"  "
 
 ###### Kullanılan Kütüphaneler:
 
@@ -45,4 +42,4 @@
 
 ###### Gerçekleştirmesi Planlanan Bileşenler:
 
-" "
+" Translate API Kullanarak gönderilerin Localize edilmesi. "
