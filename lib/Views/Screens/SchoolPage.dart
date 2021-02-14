@@ -50,13 +50,15 @@ class SchoolPage extends StatelessWidget{
                   padding: EdgeInsets.all(0), child: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: <Widget>[
-                  new Image.asset("assets/school.png", width: 50.0, height: 35.0),
+                  new Image.asset("assets/request.jpg", width: 50.0, height: 40.0),
                   Text("Requests"),
                   Text("Completed: " + 5.toString()),
                 ],
               ),
                 decoration: BoxDecoration(
-                    color: Colors.red,
+                    color: Colors.white,
+                  border:
+                  Border.all(width: 1.0, color: Colors.greenAccent),
                 ),
               ),
           ), Expanded(
@@ -65,56 +67,15 @@ class SchoolPage extends StatelessWidget{
                     padding: EdgeInsets.all(0), child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: <Widget>[
-                    new Image.asset("assets/school.png", width: 50.0, height: 35.0),
+                    new Image.asset("assets/project.png", width: 50.0, height: 40.0),
                     Text("Projects"),
                     Text("Completed: " + 12.toString()),
                   ],
                 ),
                   decoration: BoxDecoration(
-                      color: Colors.redAccent,
-                  ),
-                ),
-              )
-        ]
-        ),
-
-
-    )
-    ),
-          Container(
-        padding: EdgeInsets.all(2),
-        height: 100,
-
-        child: Card(
-        child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-            children: <Widget>[
-              Expanded(
-              child:
-              Container(
-                  padding: EdgeInsets.all(0), child: Column(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: <Widget>[
-                  new Image.asset("assets/person.jpg", width: 50.0, height: 35.0),
-                  Text("Current Students"),
-                ],
-              ),
-                decoration: BoxDecoration(
-                    color: Colors.amber,
-                ),
-              ),
-          ), Expanded(
-                child:
-                Container(
-                    padding: EdgeInsets.all(0), child: Column(
-                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                  children: <Widget>[
-                    new Image.asset("assets/person.jpg", width: 50.0, height: 35.0),
-                    Text("Potential Students"),
-                  ],
-                ),
-                  decoration: BoxDecoration(
-                      color: Colors.amberAccent,
+                      color: Colors.white,
+                    border:
+                    Border.all(width: 1.0, color: Colors.green),
                   ),
                 ),
               )
@@ -138,12 +99,14 @@ class SchoolPage extends StatelessWidget{
                   padding: EdgeInsets.all(0), child: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: <Widget>[
-                  new Image.asset("assets/school.png", width: 50.0, height: 35.0),
-                  Text("Insights"),
+                  new Image.asset("assets/person.jpg", width: 50.0, height: 40.0),
+                  Text("Current Students"),
                 ],
               ),
                 decoration: BoxDecoration(
-                    color: Colors.lightBlue,
+                    color: Colors.white,
+                  border:
+                  Border.all(width: 1.0, color: Colors.deepOrangeAccent),
                 ),
               ),
           ), Expanded(
@@ -152,13 +115,61 @@ class SchoolPage extends StatelessWidget{
                     padding: EdgeInsets.all(0), child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: <Widget>[
-                    new Image.asset("assets/school.png", width: 50.0, height: 35.0),
-                    Text("Feedbacks"),
-                    Text("Sent: " + 45.toString()),
+                    new Image.asset("assets/person.jpg", width: 50.0, height: 40.0),
+                    Text("Potential Students"),
                   ],
                 ),
                   decoration: BoxDecoration(
-                      color: Colors.lightBlueAccent,
+                      color: Colors.white,
+                    border:
+                    Border.all(width: 1.0, color: Colors.red),
+                  ),
+                ),
+              )
+        ]
+        ),
+    )
+    ),
+          Container(
+        padding: EdgeInsets.all(0),
+        height: 100,
+
+        child: Card(
+        child: Row(
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+            children: <Widget>[
+              Expanded(
+              child:
+              Container(
+                  padding: EdgeInsets.all(0), child: Column(
+                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                children: <Widget>[
+                  new Image.asset("assets/insight.jpg", width: 50.0, height: 40.0),
+                  Text("Insights"),
+                ],
+              ),
+                decoration: BoxDecoration(
+                    color: Colors.white,
+                  border:
+                  Border.all(width: 1.0, color: Colors.lightBlue),
+                ),
+              ),
+          ), Expanded(
+                child:
+                Container(
+                    padding: EdgeInsets.all(0), child: Column(
+                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                  children: <Widget>[
+                    new Image.asset("assets/feedback.png", width: 50.0, height: 40.0),
+                    Text("Feedbacks"),
+
+                  ],
+                ),
+                  decoration: BoxDecoration(
+                      color: Colors.white,
+                      border:
+                      Border.all(width: 1.0, color: Colors.blue),
+
                   ),
                 ),
               )

@@ -14,10 +14,9 @@ class ConnectPage extends StatelessWidget{
         Column(
           children:
           [
-            //GetTeacherInfo('TpaymB2ujRKn32c1IqbG'),
             TeacherBox("Rumeysa","Teacher",100,"assets/person.jpg"),
-            TeacherBox("Aysegul","Professor",100,"assets/person.jpg"),
-            TeacherBox("Akif","Scientist",100,"assets/person.jpg"),
+            TeacherBox("Aysegul","Professor",100,"assets/hero.png"),
+            TeacherBox("Akif","Scientist",100,"assets/angel.png"),
 
           ],
         ),

@@ -16,12 +16,14 @@ class TaskBox extends StatelessWidget {
           new Image.asset(image, width: 50.0, height: 50.0), Expanded(
               child:
               Container(
-                  padding: EdgeInsets.all(0), child: Column(
+                  padding: EdgeInsets.all(0), child:
+              Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: <Widget>[
                     Text(this.name, style: TextStyle(
                         fontWeight:
-                          FontWeight.bold)), Text(this.description),
+                          FontWeight.bold)),
+                    Text(this.description),
                     Text("Points: " + this.points.toString()),
                 ],
               )

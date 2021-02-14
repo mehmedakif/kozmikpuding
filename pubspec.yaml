@@ -52,6 +52,17 @@ flutter:
      - assets/person.jpg
      - assets/tick.png
      - assets/school.png
+     - assets/nepal.jpeg
+     - assets/bahce.jpg
+     - assets/oyuncak.jpeg
+     - assets/sun.jpg
+     - assets/montessori.jpg
+     - assets/hero.png
+     - assets/angel.png
+     - assets/insight.jpg
+     - assets/feedback.png
+     - assets/project.png
+     - assets/request.jpg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

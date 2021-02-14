@@ -12,7 +12,7 @@ class TeacherBox extends StatelessWidget {
         padding: EdgeInsets.all(0), height: 120,  child: Card(
         child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly, children: <Widget>[
-          new Image.asset(image, width: 100.0, height: 100.0), Expanded(
+          new Image.asset(this.image, width: 100.0, height: 100.0), Expanded(
               child: Container(
                   padding: EdgeInsets.all(0), child: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
