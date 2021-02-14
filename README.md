@@ -8,16 +8,16 @@
 
 
 ## Üyeler
-###### - Mehmed Akif Ay
+######  Mehmed Akif Ay
 
 1996 yılında İstanbul'da doğdu. 2021 yılı Ocak ayında Düzce Üniversitesi Bilgisayar Mühendisliği'nden mezun oldu. Mobil Programlama, Oyun Geliştirme gibi alanlarla ilgilenmektedir. Kaliteli eğitim ve bilim severlik konularına önem vermektedir.
 
-###### - Rumeysa Dindar
+######  Rumeysa Dindar
 
 1999 yılı Bursa doğumlu olan Rumeysa, eğitimine Uludağ Üniversitesi Sosyal Bilgiler Öğretmenliğinde devam etmektedir. Alanında Eğitim Bilimleri üzerine yoğunlaşmıştır.
 
 
-###### - Ayşegül Hazal Karademir
+######  Ayşegül Hazal Karademir
 
 1997 yılı İstanbul doğumlu olan Ayşegül, MSGSÜ Matematik bölümünü okumaktadır. Matematik dersleri vermenin yanı sıra Veri Bilimi ile ilgilenmektedir. Toplumsal eşitlik ve bilimsel düşünce üzerinde çalışmayı sevdiği konulardır.
 
