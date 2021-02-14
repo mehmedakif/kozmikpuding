@@ -26,7 +26,7 @@
 
 ###### Problem
 
-Dünyamız için eğitim diğer tüm problemlerden önce gelmektedir. Eğitimin olmadığı yerlerde problemlerin çözümü de mümkün olmamaktadır. Dünyada bir çok çocuk eğitime ulaşamıyor. Eğitim alabilenlerde ise bir çok ayrımcılık göze çarpıyor. Cinsiyet, dil, din, ırk gibi sebeplerden dolayı eğitimden uzak kalan çocuklar var. Bu adil olmayan yollardan yürüyüp eğitime kavuşan çocuklar ise nitelikli eğitimden mahrum oluyor. Bizim amaçlarımız ise;
+Dünyamız için eğitim diğer tüm problemlerden önce gelmektedir. Eğitimin olmadığı yerlerde problemlerin çözümü de mümkün olmamaktadır. Dünyada birçok çocuk eğitime ulaşamıyor. Eğitim alabilenlerde ise bir çok ayrımcılık göze çarpıyor. Cinsiyet, dil, din, ırk gibi sebeplerden dolayı eğitimden uzak kalan çocuklar var. Bu adil olmayan yollardan yürüyüp eğitime kavuşan çocuklar ise nitelikli eğitimden mahrum oluyor. Bizim amaçlarımız ise;
 
 - Eğitimdeki eşitsizliği takip altına almak ve buna çözümler sunabilmek.
 - Kaliteli eğitim konusunda her türlü yeniliği dünyanın her noktasına ulaştırabilmek.
