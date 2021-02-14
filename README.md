@@ -32,7 +32,7 @@ Dünyamız için eğitim diğer tüm problemlerden önce gelmektedir. Eğitimin 
 - Kaliteli eğitim konusunda her türlü yeniliği dünyanın her noktasına ulaştırabilmek.
 - Eğitimde dünyanın ortak bir akıl kullanmasının yolunu açmak.
 
-Artık teknoloji sayesinde problemleri çözmek çok daha mümkün. Ayrıca çözmeye çalışırken yalnız olmak zorunda değiliz. Tam bu noktada projemiz olan "Open Hive"(Açık Kovan) devreye giriyor.
+Gelişen teknoloji sayesinde problemleri hızlı ve isabetli şekilde çözmek daha kolay. Ayrıca çözmeye çalışırken yalnız olmak zorunda değiliz. Tam bu noktada projemiz olan "Open Hive"(Açık Kovan) devreye giriyor.
 
 ###### "Open Hive" Projesi
 
@@ -40,7 +40,7 @@ Dünyaynın ücra köşelerinde bile olsa okullara ve okuldaki öğretmenlere ye
 
 Çalışma biçimini tanımlarsak:
 
-Yer yüzündeki tüm eğitim ile dertlenen şahısları Arı gibi düşündük. Okullarımız birer Kovan. Her bir "Arı" tecrübelerini ve bilgilerini "Kovan"lara dağıtabilecek. 
+Yeryüzündeki tüm eğitim ile dertlenen bireyleri Arı gibi düşünürken, okullarımızı Kovan olarak hayal ettik. Her bir "Arı" tecrübelerini ve bilgilerini "Kovan"lara dağıtabilecek. Kaliteli eğitim ve kaliteli öğrenciler ise Bal olarak düşünülebilir. :)
 
 - Okul Öğretmeni (Arı) : Platform sayesinde eğitimdeki yeniliklerden haberdar olması, yenilikleri uygulaması, sürekli kendi eğitimine devam etmesi ve projeleri için fon sağlayabilmesi amaçlanmakta.
 - Mentör (Arı) : Hali hazırda eğitim alanında çalışan, araştırmacı, öğretmen ve akademisyenler. Okullara yeni bilimsel yöntemleri ve bunların nasıl uygulanacağını anlatan içerikler üretirler.
