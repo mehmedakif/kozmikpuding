@@ -31,9 +31,9 @@ Dünyamız için eğitim diğer tüm problemlerden önce gelmektedir. Eğitimin 
 - Kaliteli eğitim konusunda her türlü yeniliği dünyanın her noktasına ulaştırabilmek.
 - Eğitimde dünyanın ortak bir akıl kullanmasının yolunu açmak.
 
-Artık teknoloji sayesinde problemleri çözmek çok daha mümkün. Ayrıca çözmeye çalışırken yalnız olmak zorunda değiliz. Tam bu noktada projemiz olan "Kovan" devreye giriyor.
+Artık teknoloji sayesinde problemleri çözmek çok daha mümkün. Ayrıca çözmeye çalışırken yalnız olmak zorunda değiliz. Tam bu noktada projemiz olan "Open Hive"(Açık Kovan) devreye giriyor.
 
-###### "Kovan" Projesi
+###### "Open Hive" Projesi
 
 Dünyaynın ücra köşelerinde bile olsa okullara ve okuldaki öğretmenlere yeni metodları ulaştırmak, metodları uygularken mentörlük sağlamak, gerekli eğitimleri sağlamak ve sonuçları kayıt altına almak için oluşturulmuş platform.
 
