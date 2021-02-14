@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'file:///E:/Projeler/Kozmikpuding/kozmikpuding/lib/Views/Screens/ConnectPage.dart';
-import 'package:kozmikpuding/Views/Screens/LoginPage.dart';
 import 'package:kozmikpuding/Views/Screens/TasksPage.dart';
 import 'package:kozmikpuding/Views/Screens/HomePage.dart';
 import 'SchoolPage.dart';
@@ -33,7 +32,7 @@ class _NavigationBarState extends State<NavigationBar> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Kozmik Puding App'),
+        title: const Text('Open Hive App'),
         backgroundColor: Colors.amber,
       ),
       body: Center(

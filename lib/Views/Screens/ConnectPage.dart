@@ -6,8 +6,6 @@ import 'file:///E:/Projeler/Kozmikpuding/kozmikpuding/lib/Views/Widgets/TeacherB
 class ConnectPage extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
-    FirebaseFirestore firestore = FirebaseFirestore.instance;
-
     return ListView(
       padding: const EdgeInsets.all(8),
       children: <Widget>[
@@ -17,7 +15,6 @@ class ConnectPage extends StatelessWidget{
             TeacherBox("Rumeysa","Teacher",100,"assets/person.jpg"),
             TeacherBox("Aysegul","Professor",100,"assets/hero.png"),
             TeacherBox("Akif","Scientist",100,"assets/angel.png"),
-
           ],
         ),
         Column(
