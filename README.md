@@ -28,3 +28,21 @@
 
 ###### Kullanılan Plartfomlar:
 " "
+
+###### Kullanılan Plartfomlar:
+" "
+
+###### Kullanılan Geliştirme Araçları:
+" "
+
+###### Kullanılan API'ler:
+
+" "
+
+###### Kullanılan Kütüphaneler:
+
+" "
+
+###### Gerçekleştirmesi Planlanan Bileşenler:
+
+" "
